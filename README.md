@@ -8,5 +8,5 @@ Each file has 1 copy-paste ready command.
 
 The file "requirements.py" holds special code. this *HAS* to be at the top of your file.
 
-Add the bot by clicking [here](https://discord.com/api/oauth2/authorize?client_id=777477540650024960&permissions=8&scope=bot)
+Add the bot by clicking [here](https://discord.com/api/oauth2/authorize?client_id=777477540650024960&permissions=8&redirect_uri=https%3A%2F%2Fgithub.com%2Flelzidev%2Fsteve-opensource&scope=bot)
 
